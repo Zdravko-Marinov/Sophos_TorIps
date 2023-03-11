@@ -1,6 +1,8 @@
 # Sophos_TorIps
 Tool to create a csv for the email filter for sophos to block all the email coming from Tor Exit nodes minimize the attack vector for phishing.
 
+Has been tested on windows 10
+
 
 !!!!!!!!WARNING!!!!!!!
 
